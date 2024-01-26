@@ -1,4 +1,2 @@
-# stars-earth.github.io
-theme: jekyll-theme-minimal
-title: Mark's homepage
-description:~~~
+# Qi Chen's web
+Fast robot 2024 gallery: https://stars-earth.github.io/fast_robots_2024.github.io/
